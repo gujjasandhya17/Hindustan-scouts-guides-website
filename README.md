@@ -68,7 +68,8 @@ The project is deployed online and can be accessed here:
 
 hsga-website/
 │
-├── index.html                # Home page
+
+  ├── index.html                # Home page
 ├── about.html                # About page
 ├── leadership.html           # Leadership page
 ├── activities.html           # Activities page
