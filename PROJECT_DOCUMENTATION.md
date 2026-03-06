@@ -148,7 +148,7 @@ Then visit: `http://localhost:8000`
 - [x] Gallery and contact form
 - [x] Screenshots of major pages
 - [ ] GitHub repository link (add after push)
-- [ ] Live deployed link (add after deployment)
+- [x] Live deployed link: https://hindustan-scouts-guides-website.netlify.app/
 
 ---
 
